@@ -11,3 +11,7 @@ This task involves implementing security management features such as changing pa
 This task involves implementing user profile management, allowing users to update their personal information, profile pictures, and contact details.
 *Status: Implemented*
 
+## T-8: Payment Gateway Integration
+This task involves implementing secure multi-gateway payment screens supporting card layouts and mobile wallets like bKash/Nagad.
+**Status: Implemented**
+
