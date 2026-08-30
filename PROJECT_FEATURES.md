@@ -11,3 +11,8 @@ This task involves implementing security management features such as changing pa
 This task involves implementing user profile management, allowing users to update their personal information, profile pictures, and contact details.
 *Status: Implemented*
 
+## T-6: Manage my store setup
+## T-6: Manage my store setup
+This task involves creating a vendor dashboard setup where salers can enter store details,upload branding assets.
+**Status: Implemented**
+
