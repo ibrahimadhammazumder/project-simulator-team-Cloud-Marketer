@@ -11,3 +11,7 @@ This task involves implementing security management features such as changing pa
 This task involves implementing user profile management, allowing users to update their personal information, profile pictures, and contact details.
 *Status: Implemented*
 
+## T-10: Upload product visuals
+This task involves enabling users to upload and preview product images.
+**Status: Implemented**
+
