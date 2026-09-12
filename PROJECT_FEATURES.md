@@ -11,3 +11,8 @@ This task involves implementing security management features such as changing pa
 This task involves implementing user profile management, allowing users to update their personal information, profile pictures, and contact details.
 *Status: Implemented*
 
+## T-11: [এখানে T-11 এর নাম দিন]
+## T-11: Manage product inventory
+This task involves tracking stock levels, setting low-stock alerts, and managing warehouse inventory.
+**Status: Implemented**
+
