@@ -11,3 +11,7 @@ This task involves implementing security management features such as changing pa
 This task involves implementing user profile management, allowing users to update their personal information, profile pictures, and contact details.
 *Status: Implemented*
 
+## T-9: Manage incoming orders
+This task involves creating an interface to view incoming orders and update fulfillment statuses.
+**Status: Implemented**
+
